@@ -1,5 +1,7 @@
 # AI-Image-Generator
 Generate AI images from text prompts using a simple frontend interface.
+
+
 🧠 Introduction
 This project is an AI Image Generator built using HTML, CSS, and JavaScript, integrated with the OpenAI API. It allows users to input a text prompt and generate a set of AI-created images based on their description. The generated images are displayed in an elegant gallery format, each with an option to download directly.
 
